@@ -1,0 +1,19 @@
+html{
+    font-family: "EB Garamond", serif;
+    font-optical-sizing:auto;
+    font-weight: bolder;
+    font-style: italic;
+    background-color:black;
+}
+h2{
+    color:white;
+    text-align:center;
+    margin-top:35vh;
+}
+img{
+    width:5%;
+}
+.imgcontainer{
+    display:flex;
+    justify-content:center;
+}

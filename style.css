@@ -1,0 +1,37 @@
+html{
+    font-family: "EB Garamond", serif;
+    font-optical-sizing:auto;
+    font-weight: bolder;
+    font-style: italic;
+    background-color:black;
+}
+#title{
+    text-align:center;
+    color:white;
+}
+.buttons{
+    display:flex;
+    justify-content:center;
+    margin-top:10vh;
+    gap:5vw;
+}
+button{
+    background-color:white;
+    font-family: "EB Garamond", serif;
+    font-weight: bolder;
+    font-style: italic;
+    border-radius:40px;
+    border:none;
+    padding:2vw;
+    cursor:pointer;
+}
+button:hover{
+    background-color:lightgrey;
+}
+.program{
+    text-align:center;
+    margin-top:25vh;
+}
+#sim{
+    position:relative;
+}
