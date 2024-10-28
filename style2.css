@@ -17,3 +17,11 @@ img{
     display:flex;
     justify-content:center;
 }
+@media screen and (max-width:1000px){
+    html{
+        font-size:50px;
+    }
+    img{
+        width:15%;
+    }
+}
